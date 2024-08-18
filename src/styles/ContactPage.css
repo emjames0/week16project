@@ -1,0 +1,33 @@
+.contact-container {
+    padding: 20px;
+    background-color: #f0d8d8da;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contact-container h2 {
+    text-align: center;
+    color: #A93439; 
+    margin-bottom: 20px;
+    font-family: 'Arial', sans-serif;
+    font-size: 2rem;
+}
+
+.contact-container .form-group {
+    margin-bottom: 15px;
+}
+
+.contact-container .form-control {
+    border-radius: 5px;
+}
+
+.contact-container .btn {
+    display: block;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.contact-message p {
+    text-align: center;
+}

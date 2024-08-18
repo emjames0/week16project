@@ -1,0 +1,51 @@
+.text-center {
+    text-align: center;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem !important; 
+  }
+  
+  .mt-4 {
+    margin-top: 1.5rem !important; 
+  }
+  
+  h1 {
+    color: #A93439; 
+  }
+  
+  h2 {
+    color: #FFB819; 
+  }
+
+  .upcoming-matches-section {
+    text-align: center;
+    border: 2px solid #000000; 
+    background-color: #FFB819; 
+    padding: 20px; 
+    margin-bottom: 15px;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .upcoming-matches-section h2 {
+    color: #651C32; 
+    text-align: center;
+  }
+  
+  .upcoming-matches-section p {
+    color: #333; 
+    text-align: center;
+  }
+
+  .team-photo-container {
+    display: flex;
+    justify-content: center; 
+  }
+  
+  .team-photo {
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
